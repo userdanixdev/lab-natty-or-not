@@ -1,7 +1,7 @@
 # Título do Projeto :
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
